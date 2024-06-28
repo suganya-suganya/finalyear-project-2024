@@ -1,0 +1,1 @@
+﻿I would like to read and display a text file in a JSP page. I found no error in my code but it display a blank after I run it. I have code like this
